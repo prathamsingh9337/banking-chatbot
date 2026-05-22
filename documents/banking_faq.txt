@@ -1,0 +1,108 @@
+=== PERSONAL LOANS ===
+A personal loan is an unsecured loan provided by banks or NBFCs to individuals for personal use such as medical emergencies, travel, home renovation, or debt consolidation. No collateral is required for a personal loan.
+ 
+Interest rates for personal loans range from 10.5% to 24% per annum depending on your credit score and the bank's policy. The interest is calculated on a reducing balance basis.
+ 
+Eligibility for personal loan: Minimum age 21 years, maximum 60 years. Minimum monthly salary Rs. 15,000. Good credit score (750+) preferred. Minimum 2 years of work experience required.
+ 
+Loan tenure for personal loans ranges from 1 year to 5 years. Maximum loan amount is typically Rs. 40 lakhs for salaried individuals.
+ 
+Documents required for personal loan: PAN card, Aadhaar card, last 3 months salary slips, 6 months bank statement, address proof, and passport-size photographs.
+ 
+Processing fee for personal loans is typically 1% to 3% of the loan amount plus applicable GST. Some banks offer zero processing fee during festive offers.
+ 
+Prepayment of personal loan: Most banks allow prepayment after 12 EMIs. Prepayment charges range from 2% to 5% of the outstanding principal.
+ 
+EMI for personal loan is calculated using the formula: EMI = P × r × (1+r)^n / ((1+r)^n - 1), where P is principal, r is monthly interest rate, n is number of months.
+ 
+=== CREDIT CARDS ===
+A credit card allows you to borrow money up to a set credit limit for purchases. You must repay the amount by the due date to avoid interest charges. Credit cards offer a grace period of 20-50 days.
+ 
+Credit card interest rate (APR) ranges from 36% to 42% per annum if you carry a balance after the due date. Interest is charged daily on the outstanding balance.
+ 
+Minimum payment on credit card is typically 5% of the outstanding balance or Rs. 200, whichever is higher. Paying only the minimum leads to high interest accumulation.
+ 
+Credit card annual fees range from Rs. 500 to Rs. 5000 depending on the card type. Classic cards: Rs. 500, Gold cards: Rs. 1000, Platinum cards: Rs. 2500, Premium cards: Rs. 5000.
+ 
+Credit card reward points are earned at 1 to 5 points per Rs. 100 spent. Reward points can be redeemed for cashback, vouchers, flight miles, or merchandise from the bank's rewards catalog.
+ 
+To apply for a credit card you need: Minimum age 18 years, minimum annual income Rs. 3 lakhs for basic cards, PAN card, address proof, and income proof. Self-employed individuals need ITR of last 2 years.
+ 
+Credit card billing cycle is typically 30 days. The statement is generated at the end of the cycle and payment is due 20 days after the statement date.
+ 
+Credit limit on a credit card is determined by your income, credit score, and existing liabilities. Typically 2-3 times your monthly salary for salaried individuals.
+ 
+Lost or stolen credit card should be reported immediately by calling the bank's 24/7 helpline. The card will be blocked and a replacement issued within 5-7 working days.
+ 
+=== HOME LOANS ===
+A home loan (mortgage) is a secured loan taken to purchase, construct, or renovate a residential property. The property itself serves as collateral.
+ 
+Home loan interest rates range from 8.5% to 11% per annum. RBI repo rate changes directly affect floating rate home loans. Fixed rate home loans are available at slightly higher rates.
+ 
+Maximum home loan tenure is 30 years. Maximum loan amount can be up to 80% of property value for loans above Rs. 75 lakhs, and 90% for loans below Rs. 30 lakhs (LTV ratio).
+ 
+Home loan processing fee is typically 0.25% to 1% of the loan amount. Some banks charge a flat fee of Rs. 5000 to Rs. 15000 for processing.
+ 
+Tax benefits on home loan: Under Section 80C, principal repayment up to Rs. 1.5 lakhs is deductible per year. Under Section 24(b), interest up to Rs. 2 lakhs is deductible annually for self-occupied property.
+ 
+Documents for home loan: PAN card, Aadhaar, salary slips, bank statements, Form 16, property documents, approved building plan, and sale agreement.
+ 
+Home loan balance transfer: You can transfer your existing home loan to another bank offering lower interest rates. Transfer charges are typically 0.5% to 1% of outstanding loan.
+ 
+=== SAVINGS ACCOUNT ===
+A savings account is a basic deposit account that earns interest on your balance. Interest rates typically range from 2.5% to 7% per annum depending on the bank and balance.
+ 
+Minimum balance requirement varies: Rs. 0 for zero-balance (Basic Savings Bank Deposit) accounts, Rs. 1000 to Rs. 10,000 for regular savings accounts depending on branch location.
+ 
+Non-maintenance of minimum balance attracts a penalty of Rs. 100 to Rs. 750 per quarter depending on the shortfall amount and bank policy.
+ 
+ATM withdrawal limit is typically Rs. 20,000 to Rs. 40,000 per day. You get 5 free ATM transactions per month at other bank ATMs, and unlimited transactions at your own bank's ATMs.
+ 
+Savings account interest is credited quarterly or half-yearly. Interest earned above Rs. 10,000 per year (Rs. 50,000 for senior citizens) is taxable under Section 80TTA.
+ 
+=== FIXED DEPOSITS ===
+A Fixed Deposit (FD) is a financial instrument where you deposit a lump sum for a fixed period and earn a guaranteed interest rate higher than savings accounts.
+ 
+FD interest rates range from 6% to 8.5% per annum depending on tenure and bank. Senior citizens get an additional 0.25% to 0.5% over the regular rate.
+ 
+FD tenure ranges from 7 days to 10 years. The most popular tenures are 1 year, 2 years, and 5 years. Tax-saving FDs have a mandatory lock-in of 5 years.
+ 
+Premature withdrawal of FD is allowed with a penalty of 0.5% to 1% deducted from the applicable interest rate. Some banks do not allow premature withdrawal for tax-saving FDs.
+ 
+Tax Deducted at Source (TDS) is deducted at 10% if total FD interest in a financial year exceeds Rs. 40,000 (Rs. 50,000 for senior citizens). Submit Form 15G/15H to avoid TDS if income is below taxable limit.
+ 
+Auto-renewal of FD: Most banks offer auto-renewal at the prevailing interest rate on the maturity date. You can choose to receive interest monthly, quarterly, or at maturity.
+ 
+=== LOANS AGAINST FIXED DEPOSITS ===
+You can take a loan against your FD without breaking it. Loan amount can be up to 90% of the FD value. Interest rate is typically 1-2% above the FD rate. This is a good option to avoid premature FD withdrawal penalties.
+ 
+=== KYC AND ACCOUNT OPENING ===
+KYC (Know Your Customer) is mandatory for opening any bank account in India as per RBI regulations. It helps banks verify customer identity and prevent fraud and money laundering.
+ 
+Documents for KYC: Any one of these as identity proof: PAN card, Aadhaar card, Passport, Voter ID, Driving License. Address proof: Aadhaar, Passport, Utility bill (not older than 3 months), Bank statement.
+ 
+Video KYC (V-KYC) is now available for opening accounts online without visiting a branch. It requires a smartphone with a working camera and a stable internet connection.
+ 
+To open a savings account online: Visit bank website or app, fill the application form, complete video KYC, upload documents, and your account will be activated within 24-48 hours.
+ 
+=== DIGITAL BANKING ===
+Net banking can be activated by visiting branch with a request form or through the ATM using your debit card and PIN. You receive temporary login credentials on your registered mobile number.
+ 
+UPI (Unified Payments Interface) allows instant money transfer using a UPI ID or mobile number 24/7 including holidays. Maximum transaction limit is Rs. 1 lakh per transaction for most banks.
+ 
+NEFT (National Electronic Funds Transfer) transfers happen in 30-minute batches 24 hours, 7 days a week. Minimum amount: Rs. 1. Maximum: No limit. Charges: Free for online transactions.
+ 
+RTGS (Real Time Gross Settlement) is for high-value transfers above Rs. 2 lakhs. Settlement is near-instant during banking hours (7 AM to 6 PM on working days).
+ 
+IMPS (Immediate Payment Service) is instant 24/7 transfer service available round the clock. Transfer limits vary by bank, typically Rs. 2 lakhs to Rs. 5 lakhs per day.
+ 
+=== BANKING FAQS ===
+IFSC code is an 11-character alphanumeric code used for NEFT, RTGS, and IMPS transfers. First 4 characters are the bank code, the 5th character is always 0, and the last 6 characters identify the branch.
+ 
+Cheque bounce due to insufficient funds attracts charges of Rs. 300 to Rs. 750 per bounce plus GST. The payee may also file a case under Section 138 of the Negotiable Instruments Act.
+ 
+Nomination facility: You must add a nominee to your account or deposit. The nominee receives the funds in case of the account holder's death. You can add up to 4 nominees.
+ 
+Bank account dormant/inactive: An account becomes inactive after 12 months of no transactions and dormant after 24 months. Reactivation requires a written request and KYC at the branch.
+ 
+Customer grievance: If you are not satisfied with bank service, you can contact the Banking Ombudsman appointed by RBI. Complaint should first be raised with the bank and escalated if not resolved in 30 days.

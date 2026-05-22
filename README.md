@@ -26,6 +26,12 @@ https://banking-chatbot-eta.vercel.app/
 
 https://drive.google.com/file/d/1vhQXOmf8WotHQhkX1oGVKfst9bmvZcQ4/view?usp=drive_link
 
+
+
+## github link
+
+https://github.com/prathamsingh9337/banking-chatbot
+
 ---
 
 

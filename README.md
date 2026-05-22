@@ -28,6 +28,28 @@ https://drive.google.com/file/d/1vhQXOmf8WotHQhkX1oGVKfst9bmvZcQ4/view?usp=drive
 
 ---
 
+
+# Installation & Setup
+
+## Clone Repository
+
+git clone <your-github-repo>
+
+## Backend Setup
+
+cd backend
+
+npm install
+
+npm start
+
+## Frontend Setup
+
+Open index.html using Live Server
+
+
+----
+
 # 📌 Project Overview
 
 Traditional chatbots often generate generic or hallucinated answers because they rely only on the language model’s pre-trained knowledge.
